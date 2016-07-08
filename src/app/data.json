@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+    "id": 1,
+    "todo": "walk the dog",
+    "completed": false
+    },
+
+    {
+    "id": 2,
+    "todo": "buy milk",
+    "completed": true
+    },
+
+    {
+    "id": 3,
+    "todo": "pickup dry cleaning",
+    "completed": false
+    }
+  ]
+}
