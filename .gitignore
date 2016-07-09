@@ -1,3 +1,10 @@
 node_modules
 .DS_Store
 *.log
+src/app/RCS/aaa.js,v
+src/app/RCS/data.json,v
+src/app/RCS/index.js,v
+src/app/RCS/Todo.js,v
+src/save/app/data.json
+src/save/app/index.js
+src/save/app/Todo.js
